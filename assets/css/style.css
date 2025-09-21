@@ -1,0 +1,5 @@
+/* Minimal tweaks on top of jekyll-theme-cayman */
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+ul { margin-left: 1.2rem; }
+.markdown-body h1, .markdown-body h2 { margin-top: 1.4rem; }
