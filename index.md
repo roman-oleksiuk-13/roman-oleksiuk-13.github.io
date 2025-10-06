@@ -19,6 +19,7 @@ A no‑code web app to help new students settle in London (areas, guides, resour
 - Evidence: Loom walkthrough and short user-testing summary.
 
 **Live demo:** https://romaoleksiukstudentproject.softr.app
+
 **README / About:** https://docs.google.com/document/d/1ufRHkmNQP7KcThUGJHoWZl-F-V3fl_q4dWjABkHWXEE/edit?usp=sharing
 
 ---
