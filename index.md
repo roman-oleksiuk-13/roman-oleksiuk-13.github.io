@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👋 Your Name
+# 👋 Roman Oleksiuk
 **Business Management (BSc), aspiring MSc in Business Analytics / Digital Innovation**  
 
 [⬇️ Download CV (PDF)](assets/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/roman-oleksiuk-74aa121a1/) · [Email](mailto:wolk1304@gmail.com)
