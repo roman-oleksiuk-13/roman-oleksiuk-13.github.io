@@ -6,11 +6,11 @@ title: Home
 # 👋 Your Name
 **Business Management (BSc), aspiring MSc in Business Analytics / Digital Innovation**  
 
-[⬇️ Download CV (PDF)](assets/CV.pdf) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:you@example.com)
+[⬇️ Download CV (PDF)](assets/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/roman-oleksiuk-74aa121a1/) · [Email](mailto:wolk1304@gmail.com)
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Student Platform MVP (Sep–Oct 2025)
 A no‑code web app to help new students settle in London (areas, guides, resources).
@@ -18,7 +18,7 @@ A no‑code web app to help new students settle in London (areas, guides, resour
 - Features: area filters (budget/commute/vibe), short guides, resources, feedback form.
 - Evidence: Loom walkthrough and short user-testing summary.
 
-**Live demo:** https://YOUR-SOFTR-SUBDOMAIN.softr.app  
+**Live demo:** https://romaoleksiukstudentproject.softr.app
 **README / About:** link to Google Doc or Notion
 
 ---
