@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-# 👋 Roman Oleksiuk
+#  Roman Oleksiuk
 **Business Management (BSc), aspiring MSc in Business Analytics / Digital Innovation**  
 
-[⬇️ Download CV (PDF)](assets/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/roman-oleksiuk-74aa121a1/) · [Email](mailto:wolk1304@gmail.com)
+[ Download CV (PDF)](assets/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/roman-oleksiuk-74aa121a1/) · [Email](mailto:wolk1304@gmail.com)
 
 ---
 
@@ -34,7 +34,7 @@ Exploratory data analysis + dashboard on a public dataset.
 
 ---
 
-## 📄 About this site
+##  About this site
 This is a static site hosted with **GitHub Pages**. The repository name is `YOUR-USERNAME.github.io`.  
 Custom domain configured via Namecheap (DNS → A records to GitHub, `www` CNAME to `YOUR-USERNAME.github.io`).
 
