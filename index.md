@@ -4,9 +4,9 @@ title: Home
 ---
 
 #  Roman Oleksiuk
-**Business Management (BSc), aspiring MSc in Business Analytics / Digital Innovation**  
+**Business Management (BSc), aspiring MSc in Business Analytics/Strategy**  
 
-[ Download CV (PDF)](assets/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/roman-oleksiuk-74aa121a1/) · [Email](mailto:wolk1304@gmail.com)
+[ Download CV (PDF)](assets/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/roman-oleksiuk-available) · [Email](mailto:roleksiuk11@gmail.com)
 
 ---
 
@@ -22,20 +22,4 @@ A no‑code web app to help new students settle in London (areas, guides, resour
 
 **README / About:** https://docs.google.com/document/d/1ufRHkmNQP7KcThUGJHoWZl-F-V3fl_q4dWjABkHWXEE/edit?usp=sharing
 
----
-
-### Business Analytics Mini‑Project (2025)
-Exploratory data analysis + dashboard on a public dataset.
-- **Python (Pandas/NumPy)** for data cleaning & EDA.
-- **SQL** for joins/aggregations; **Looker Studio/Power BI** for a simple dashboard.
-- Short write‑up of insights and next steps.
-
-**Code repo:** https://github.com/YOUR-ACCOUNT/ba-mini-project  
-**Dashboard:** (public link)
-
----
-
-##  About this site
-This is a static site hosted with **GitHub Pages**. The repository name is `YOUR-USERNAME.github.io`.  
-Custom domain configured via Namecheap (DNS → A records to GitHub, `www` CNAME to `YOUR-USERNAME.github.io`).
 
